@@ -49,3 +49,11 @@ uma lista que contém qualquer tipo de dado
 # condicionais
 
 - [x] switch
+
+## Modulos em Nodeja
+- [x] importação de módulos
+- [x] biblioteca 'inquirer' para criar peompts interativos
+
+## Programação assíncrona e Promessas
+
+- [x] USo de promessas
