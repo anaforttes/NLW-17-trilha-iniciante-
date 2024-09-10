@@ -16,9 +16,27 @@
 - escopos
 
 ## tipos de dados
-- String = texto
-- number = numero
-- Function
+- [x] String = texto
+- [x] number = numero
+- [x] Boolean = true/false
 
 ## operadores
-operadores de atribuição de valor
+- [x] operadores de atribuição de valor
+- [x] Operador de concatenação
+
+## Estrutura de dados
+
+### Arrays:
+
+uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atribuição de métodos
+- [x] Criação e manipulação de objetos
+- [x] Acessar a propriedade de objetos
+
+### Functions
+- [x] criar
+- [x] executar
+- [x] arrow function / named function
