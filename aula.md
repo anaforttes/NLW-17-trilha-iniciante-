@@ -36,12 +36,16 @@ uma lista que contém qualquer tipo de dado
 - [x] Criação e manipulação de objetos
 - [x] Acessar a propriedade de objetos
 
+
 ### Functions
 - [x] criar
 - [x] executar
 - [x] arrow function / named function
 
 # Estrutura de repetição 
+
 - [x] while
 
 # condicionais
+
+- [x] switch
