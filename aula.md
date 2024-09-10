@@ -13,15 +13,19 @@
 - coletar dados
 - processar dados (coletar, manipular)
 - Apresentar dados
-- escopos
 
-## tipos de dados
+## Escopo e variáveis
+
+- [x] Variáveis globais e locais
+- [x] Constantes
+
+## Tipos de dados
 
 - [x] String = texto
 - [x] number = numero
 - [x] Boolean = true/false
 
-## operadores
+## Operadores
 
 - [x] operadores de atribuição de valor
 - [x] Operador de concatenação
@@ -31,7 +35,8 @@
 
 ### Arrays:
 
-uma lista que contém qualquer tipo de dado
+- [x] uma lista que contém qualquer tipo de dado
+- [x] Métodos de Array: push, find e etc.
 
 ### Objetos:
 
