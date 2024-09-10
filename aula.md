@@ -40,3 +40,8 @@ uma lista que contém qualquer tipo de dado
 - [x] criar
 - [x] executar
 - [x] arrow function / named function
+
+# Estrutura de repetição 
+- [x] while
+
+# condicionais
