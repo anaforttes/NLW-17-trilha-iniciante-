@@ -16,13 +16,16 @@
 - escopos
 
 ## tipos de dados
+
 - [x] String = texto
 - [x] number = numero
 - [x] Boolean = true/false
 
 ## operadores
+
 - [x] operadores de atribuição de valor
 - [x] Operador de concatenação
+- [x] Operadores de comparação
 
 ## Estrutura de dados
 
@@ -49,6 +52,7 @@ uma lista que contém qualquer tipo de dado
 # condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Modulos em Nodeja
 - [x] importação de módulos
