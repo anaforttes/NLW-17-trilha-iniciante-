@@ -13,3 +13,12 @@
 - coletar dados
 - processar dados (coletar, manipular)
 - Apresentar dados
+- escopos
+
+## tipos de dados
+- String = texto
+- number = numero
+- Function
+
+## operadores
+operadores de atribuição de valor
