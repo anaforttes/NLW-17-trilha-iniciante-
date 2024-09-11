@@ -30,13 +30,14 @@
 - [x] operadores de atribuição de valor
 - [x] Operador de concatenação
 - [x] Operadores de comparação
+- [x] Spread operator: ...
 
 ## Estrutura de dados
 
 ### Arrays:
 
 - [x] uma lista que contém qualquer tipo de dado
-- [x] Métodos de Array: push, find e etc.
+- [x] Métodos de Array: push, {find, forEach, filter} : HDF
 
 ### Objetos:
 
