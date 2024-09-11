@@ -37,7 +37,7 @@
 ### Arrays:
 
 - [x] uma lista que contém qualquer tipo de dado
-- [x] Métodos de Array: push, {find, forEach, filter} : HDF
+- [x] Métodos de Array: push, {find, forEach, filter, map} : HDF
 
 ### Objetos:
 
@@ -66,4 +66,4 @@
 
 ## Programação assíncrona e Promessas
 
-- [x] USo de promessas
+- [x] Uso de promessas
