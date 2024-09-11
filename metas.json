@@ -5,6 +5,18 @@
   },
   {
     "value": "andar",
+    "checked": false
+  },
+  {
+    "value": "meditar",
+    "checked": true
+  },
+  {
+    "value": "ler ",
+    "checked": true
+  },
+  {
+    "value": "tomar água",
     "checked": true
   },
   {
@@ -12,7 +24,11 @@
     "checked": false
   },
   {
-    "value": "ler ",
+    "value": "deitar",
+    "checked": false
+  },
+  {
+    "value": "ir para a academia",
     "checked": false
   }
 ]
