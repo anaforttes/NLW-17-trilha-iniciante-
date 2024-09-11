@@ -63,6 +63,13 @@
 ## Modulos em Nodeja
 - [x] importação de módulos
 - [x] biblioteca 'inquirer' para criar peompts interativos
+- [x] JS
+
+## JSON
+
+- [x] Javascript Object Notaion (.json)
+- [x] JSON.parse()
+- [x] JSON.stringify()
 
 ## Programação assíncrona e Promessas
 

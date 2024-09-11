@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "andar",
+    "checked": true
+  },
+  {
+    "value": "meditar",
+    "checked": false
+  },
+  {
+    "value": "ler ",
+    "checked": false
+  }
+]
